@@ -11,8 +11,8 @@ node_js:
   - 5.0
 env:
   global:
-    - TOO=TUBU
     - secure: LY6Akr0uduGTPngs8TB0VUo3t6WTik59R6nzcUNJGhe1oYXdOd8vJg/GHA9OYPg8rPQZ1dw+0FIksMRPaqX9UDk+xZW3scE7Ac5D4iP1xMj0XxT1Trtbee4LyeiptFoz4hZ2qpzKk0MydriK/qtf0k04wNWXaaEVF1edtA8ZxEN8woOBVmTuZk7Nyf/itzC1vyqhZuIp9ZRdeUgyED+Z2UFVRvQ/gM5yp0NaUckj1Pyo2DOYCaJqBhqZN7RIne9tBpp1S+T03PW56FkRypiiPPJyBi7A/a70Y+00sI2cgVEksmlh9lqAYBueCVqPnAAHbBeQHWFAOGjeVN2UhUtYVA==
+    - TOO=TUBU
   matrix:
     - GOO=GUBU
 
